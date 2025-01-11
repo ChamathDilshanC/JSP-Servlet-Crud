@@ -120,7 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contact
 
-Your Name - [@yourgithub](https://github.com/ChamathDilshanC)
+GitHub - [@Mygithub](https://github.com/ChamathDilshanC)
 
 Project Link: [https://github.com/ChamathDilshanC/JSP-Servlet-Crud)
 
