@@ -38,14 +38,14 @@ A modern web application for managing customer data built with JSP (JavaServer P
 
 2. **Set up the database**
    ```sql
-   CREATE DATABASE customer_db;
-   USE customer_db;
+   CREATE DATABASE IF NOT EXISTS customerDB;
+   USE customerDB;
 
-   CREATE TABLE customers (
-       id INT PRIMARY KEY AUTO_INCREMENT,
+   CREATE TABLE IF NOT EXISTS customer (
+       id INT AUTO_INCREMENT PRIMARY KEY,
        name VARCHAR(100) NOT NULL,
-       address VARCHAR(200) NOT NULL,
-       email VARCHAR(100) UNIQUE NOT NULL
+       address VARCHAR(255) NOT NULL,
+       email VARCHAR(100) NOT NULL
    );
    ```
 
