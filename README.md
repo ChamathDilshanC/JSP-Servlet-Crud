@@ -1,6 +1,3 @@
-Here's a modern GitHub README.md for your JSP and Servlet Customer Management System:
-
-```markdown
 # 🚀 Customer Management System
 
 A modern web application for managing customer data built with JSP (JavaServer Pages) and Servlets.
@@ -123,9 +120,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contact
 
-Your Name - [@yourgithub](https://github.com/yourusername)
+Your Name - [@yourgithub](https://github.com/ChamathDilshanC)
 
-Project Link: [https://github.com/yourusername/customer-management](https://github.com/yourusername/customer-management)
+Project Link: [https://github.com/ChamathDilshanC/JSP-Servlet-Crud)
 
 ## 🙏 Acknowledgments
 
